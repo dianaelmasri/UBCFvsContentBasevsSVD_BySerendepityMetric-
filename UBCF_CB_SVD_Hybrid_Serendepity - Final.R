@@ -1,9 +1,3 @@
-# Diana eL-Masri
-# Projet Log6308
-# Aut. 2017
-# Matricule:0055971
-
-
 library('RCurl')
 library('Matrix')
 library('bitops')
